@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Bae Bae",
+  "base_artist": "BIGBANG",
+  "createdAt": "2026-03-06T08:46:46.163479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BAE BAE",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/01_BAE_BAE_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BAE BAE",
+      "artist": "Big Bang",
+      "has_synced": true,
+      "path": "select/02_BAE_BAE_Big_Bang.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BAE BAE",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/03_BAE_BAE_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BAE BAE",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/04_BAE_BAE_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bae Bae",
+      "artist": "빅뱅 (BIG BANG)",
+      "has_synced": true,
+      "path": "select/05_Bae_Bae_빅뱅_(BIG_BANG).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BAE BAE",
+      "artist": "빅뱅",
+      "has_synced": true,
+      "path": "select/06_BAE_BAE_빅뱅.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BAE BAE",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/07_BAE_BAE_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BAE BAE",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/08_BAE_BAE_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BAE BAE",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/09_BAE_BAE_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BAE BAE - Inst.",
+      "artist": "BIGBANG",
+      "has_synced": false,
+      "path": "select/10_BAE_BAE_-_Inst._BIGBANG.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BAE BAE (Inst.)",
+      "artist": "BIGBANG",
+      "has_synced": false,
+      "path": "select/11_BAE_BAE_(Inst.)_BIGBANG.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bae Bae - Live",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/12_Bae_Bae_-_Live_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BAE BAE - KR Ver.",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/13_BAE_BAE_-_KR_Ver._BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BIGBANG - BAE BAE M/V",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/14_BIGBANG_-_BAE_BAE_M_V_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bae Bae",
+      "artist": "Ruger",
+      "has_synced": false,
+      "path": "select/15_Bae_Bae_Ruger.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bae Bae (Official Audio)",
+      "artist": "Ruger",
+      "has_synced": true,
+      "path": "select/16_Bae_Bae_(Official_Audio)_Ruger.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bae Bae",
+      "artist": "Keith Sweat",
+      "has_synced": false,
+      "path": "select/17_Bae_Bae_Keith_Sweat.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BAE BAE",
+      "artist": "BIGBANG",
+      "has_synced": false,
+      "path": "select/pl_01_BAE_BAE_BIGBANG.txt"
+    }
+  ]
+}
